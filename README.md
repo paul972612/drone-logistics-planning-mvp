@@ -101,7 +101,7 @@ Raw data in `data/raw/` is already cut to the study area.
 ## How to use
 
 **Just look at it:** enable GitHub Pages (*Settings → Pages → Branch: main, folder: /docs*) and open
-`https://<user>.github.io/drone-logistics-planning-mvp/`. Internet connection needed (Leaflet, deck.gl, map tiles).
+`[https://<user>.github.io/drone-logistics-planning-mvp/](https://paul972612.github.io/drone-logistics-planning-mvp/)`. Internet connection needed (Leaflet, deck.gl, map tiles).
 
 Note: if `docs/index.html` is opened as a local file, the OpenStreetMap tile servers block the basemap
 ("Access blocked", tile usage policy requires a referring website). All analysis layers still work; only the
@@ -178,4 +178,4 @@ Prototype by Paul Sauter (2026). Built with Python (geopandas, h3, pyproj), [Lea
 
 Basemap: © OpenStreetMap contributors. Data: © OpenStreetMap contributors (ODbL); Census 2022 © Statistisches Bundesamt (Destatis), dl-de/by-2-0.
 
-Code licence: *not yet chosen* (add a `LICENSE` file, e.g. MIT, before publishing).
+Code licence: MIT (see LICENSE).
